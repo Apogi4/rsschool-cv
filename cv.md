@@ -3,7 +3,8 @@
 **discord:** ТушитеСвет
 ##### I worked a lot, mostly physical labor. Decided to learn how to code. Work with the prospect of developing growth 
 ##### VSC HTML CSS 
-``` function (a, b) {
+```
+function (a, b) {
   return a * b;
 }
 ```
